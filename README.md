@@ -34,4 +34,4 @@ To analyse sales data and identify trends, customer behaviour, product performan
 * Sales team performance
 
   **Data Source**
-  Data set provided by a csv file, which was downloaded and processed for analysis
+  Data set provided by a csv file, which was downloaded and processed for analysis 
